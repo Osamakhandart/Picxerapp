@@ -33,20 +33,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBhZWJsfG1kPUmUBss8JvSe2DsDkzvEdnY',
-    appId: '1:911276573523:android:541f65d176df68732dd7a6',
-    messagingSenderId: '911276573523',
-    projectId: 'picxer-25f49',
-    databaseURL:
-    'https://picxer-25f49-default-rtdb.europe-west1.firebasedatabase.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL:"",
     storageBucket: 'picxer-25f49.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBhZWJsfG1kPUmUBss8JvSe2DsDkzvEdnY',
-    appId: '1:911276573523:ios:ed2a8f4342692f3e2dd7a6',
-    messagingSenderId: '911276573523',
-    projectId: 'picxer-25f49',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
     databaseURL:
     'https://picxer-25f49-default-rtdb.europe-west1.firebasedatabase.app',
     storageBucket: 'picxer-25f49.appspot.com',
